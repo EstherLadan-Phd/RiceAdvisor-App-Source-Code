@@ -1,4 +1,4 @@
-# Phd Android Application (RiceAdvisor-App)
+# PhD Android Application (RiceAdvisor-App)
 
 This repository contains the source code of an Android application (RiceAdvisor-app) developed as part of my Phd research.
 
