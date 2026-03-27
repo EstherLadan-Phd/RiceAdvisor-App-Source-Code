@@ -1,6 +1,6 @@
 # PhD Android Application (RiceAdvisor-App)
 
-This repository contains the source code of an Android application (RiceAdvisor-app) developed as part of my Phd research.
+This repository contains the source code of an Android application (RiceAdvisor-app) developed as part of my PhD research.
 
 The application was implemented using the Dart programming language.
 The code is provided for transparency and reproducibility of the research.
